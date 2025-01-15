@@ -30,7 +30,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,html,css,git,github,vscode,vhdl,visualstudio,abap,sql,mysql,react,quartus,modelsim" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,html,css,git,github,vscode,visualstudio,react" />
+    <br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ABAP_Logo.svg" width="50" height="50" alt="ABAP Logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/IEEE_Logo_VHDL.svg" width="50" height="50" alt="VHDL Logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.svg" width="50" height="50" alt="MySQL Logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Intel_Quartus_Logo.svg" width="50" height="50" alt="Quartus Logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/ModelSim_Logo.svg" width="50" height="50" alt="ModelSim Logo" />
 </div>
 
 <br/>
