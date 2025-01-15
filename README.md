@@ -8,11 +8,11 @@
 
 <div align="center">
 
-🎓 I am currently pursuing a **Bachelor's degree in Computer and Communication Engineering**.
+🎓 I am working towards earning my **Bachelor's degree in Computer and Communication Engineering**.
 
-💻 I'm passionate about **programming and problem-solving**.
+💻 I have a strong enthusiasm for **coding and tackling challenges**.
 
-🤝 Feel free to explore my projects and get in touch if you have any questions, suggestions, or opportunities for collaboration!
+🤝 Don't hesitate to check out my projects and reach out if you have any inquiries, ideas, or collaboration opportunities!
 
 </div>
 
