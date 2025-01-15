@@ -1,4 +1,4 @@
-# Hello World! 👋
+ Hello World! 👋
 
 <h1 align="center">
     Hi, I'm Mohanad Tarek!
@@ -19,10 +19,10 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:mohanadtariq12@gmail.com">
+  <a href="mailto:mohanad.tarek@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/mohanad-tarek-elmahalawy-bba202270" target="_blank">
+  <a href="https://linkedin.com/in/mohanad-tarek" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -32,13 +32,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,html,css,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,html,css,git,github,vscode,vhdl,visualstudio,sap,abap,sql,mysql,react" />
 </div>
 
 <br/>
 <hr/>
 
-<!-- 
 <h2 align="center">🌟 Stats 🌟</h2>
 <br>
 <div align=center>
@@ -47,7 +46,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
--->
 
 <br/><br/>
 
