@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hello World, I'm Mohanad Tarek! 👋
+    <marquee> Hello World, I'm Mohanad Tarek! 👋 </marquee>
 </h1>
 
 <h3 align="center">A Computer and Communication Engineering Student</h3>
